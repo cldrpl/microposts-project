@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "This is post 1, you need to wrap posts in comments",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is post two, mimicing APIs"
+    },
+    {
+      "title": "Post Three",
+      "body": "Here it is!",
+      "id": 3
+    }
+  ]
+}
