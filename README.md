@@ -1,12 +1,41 @@
-# microposts-project
-CRUD Front End using Webpack &amp; Babel
+# Babel Webpack Starter
 
+A starter pack to build JavaScript applications using standards from ES2015, ES2016 & ES2017. It uses webpack, Babel and webpack-dev-server to compile and serve. It is fully compatible with Async/Await as it uses the Babel polyfill.
 
-This was the final modern JavaScript from the beginning course project. Creating the environment, UI, a fake REST API Using JSON Server, Getting and Displaying Posts,
-Adding Postings and Showing alerts, removing posts, post edit state and updating.
+### Version
+1.1.0
 
-This is based on https://github.com/bradtraversy/babel_webpack_starter
+## Usage
 
-and https://github.com/typicode/jsonplaceholder
+### Installation
 
-Thanks!
+Install the dependencies
+
+```sh
+$ npm install
+```
+
+### Serve
+To serve in the browser  - Runs webpack-dev-server
+
+```sh
+$ npm start
+```
+
+### Build
+Compile and build
+
+```sh
+$ npm run build
+```
+
+## More Info
+
+### Author
+
+Brad Traversy
+[Traversy Media](http://www.traversymedia.com)
+
+### License
+
+This project is licensed under the MIT License
